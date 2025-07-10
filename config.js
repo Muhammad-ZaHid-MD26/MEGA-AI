@@ -6,11 +6,11 @@ import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const defaultOwner = '923288330026';
+const defaultOwner = '923174977136';
 
 
 // Check for the OWNERS environment variable; if not found, use the default
-const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || '923174977136' ; // put your number here
+const ownervb = process.env.OWNERS || process.env.OWNER_NUMBER || '923288330026' ; // put your number here
 
 const ownerlist = ownervb.split(';');
 
