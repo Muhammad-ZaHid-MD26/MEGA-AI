@@ -120,7 +120,7 @@ const connectionOptions = {
     level: 'silent',
   }),
   printQRInTerminal: false,
-  version: [2, 3000, 1023223821],
+  version: [2, 3000, 1025091846],
   browser: Browsers.ubuntu('Chrome'),
   auth: {
     creds: state.creds,

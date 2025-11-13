@@ -4,13 +4,13 @@
   "keywords": [
     "whatsapp Ai"
   ],
-  "repository": "https://github.com/BobbyX208/AUTOBOB",
+  "repository": "https://github.com/GlobalTechInfo/MEGA-AI",
   "stack": "container",
   "env": {
     "OWNERS": {
       "description": "Owners Phone Number",
       "required": true,
-      "value": "923204566006"
+      "value": "923051391007"
     },
     "BOT_NUMBER": {
       "description": "Phone Number On Wich You will Gets Pairing Code",
@@ -20,7 +20,7 @@
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": false,
-      "value": "AUTOBOB"
+      "value": "MEGA-AI"
     },
     "MONGODB_URI": {
       "description": "your mongodb database url",

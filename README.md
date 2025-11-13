@@ -162,7 +162,7 @@ Open WhatsApp > Linked Devices > Link a Device > Link with phone number and ente
 ---
 
 ### 📜 Table of Contents
-1. [About AUTOBOB](#-about-AUTOBOB)
+1. [About MEGA-AI](#-about-MEGA-AI)
 2. [Features](#-features)
 3. [Installation](#-installation)
 4. [Usage](#-usage)
@@ -189,7 +189,7 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/GlobalTechInfo/AUTOBOB && cd AUTOBOB
+   git clone https://github.com/GlobalTechInfo/MEGA-AI && cd MEGA-AI
    
    npm install && npm start
 ---
